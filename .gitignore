@@ -1,0 +1,5 @@
+__pycache__
+.coverage
+*.csv
+.ipybn_checkpoints
+
