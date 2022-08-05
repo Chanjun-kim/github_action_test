@@ -1,0 +1,4 @@
+outs:
+- md5: 4c93a45b72183ba2720b54bec1a00c60
+  size: 18
+  path: dvc_test.csv
